@@ -1,4 +1,4 @@
-![I like to build cool shit](https://res.cloudinary.com/dt8g3rhcy/image/upload/v1595929574/i_like_to_build_cool_shit._1_nzbwjh.png)
+![I like to build business solutions](https://res.cloudinary.com/vssaini/image/upload/v1597162039/I_like_to_build_business_solutions_bgcxui.jpg)
 
 I am a GNIIT-ian having 6+ years of experience with a passion for creating solutions that help end-users automate their task and solve business requirements.
 
