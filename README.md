@@ -1,6 +1,6 @@
 ![I like to build business solutions](https://res.cloudinary.com/vssaini/image/upload/v1597162039/I_like_to_build_business_solutions_bgcxui.jpg)
 
-I am a GNIIT-ian having 6+ years of experience with a passion for creating solutions that help end-users automate their task and solve business requirements.
+I am a GNIIT-ian having 8+ years of experience with a passion for creating solutions that help end-users automate their task and solve business requirements.
 
 I'm a self-learner and know my way through new technologies. For my very first assignment, as an alone developer, I was able to completely overhaul the existing website and revamp it to working one by self-teaching.
 
