@@ -8,7 +8,7 @@ Later, I explore freelancing with one year of internship experience. I paddled m
 
 I am a GNIITian and certified expert on Experts-Exchange. I had earned Master, Guru and Wizard certificates for my contribution. I love to write code and have a knack for writing clean code. I study over Pluralsight for keeping myself improvised. 
 
-*Tech Arsenal I have used/familiar-*
+*Tech Arsenal I have used/am familiar with-*
 <ul>
   <li><strong>Major Skills:</strong> C#, Asp.Net MVC, Asp.Net Web API, EF, .NET Core, .NET 5, EF Core, Knockout js, SQL, ELMAH, Serilog, Seq, Hangfire, SignalR, Azure AppServices and Azure SignalR Service.</li>
   <li><strong>Minor Skills:</strong> Azure Functions, Docker, Identity Server 4, Angular, Ninject, TypeScript, jQuery and HTML</li>
