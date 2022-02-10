@@ -1,12 +1,10 @@
 ![I like to build business solutions](https://res.cloudinary.com/vssaini/image/upload/v1597162039/I_like_to_build_business_solutions_bgcxui.jpg)
 
-An avid learner with 9+ years of experience in .NET.  Highly efficient in interacting with international clients. Assist organizations in building complex web applications using .NET Core that solve business requirements.
+I'm a full-stack .NET Core Developer with 9+ yrs experience & specialization in developing web apps from scratch. Highly efficient in understanding requirements and project management. I have pleasure experience of working with clients from UK, USA, Israel and Denmark.
 
-As an Intern developer, for my first assignment, I completely overhaul the existing website and revamp it to a much better one (UX & features) by self-learning.
+I have developed apps for Dovestones Software (http://www.dovestones.com/) and Zenegy (zenegy.com/en). In the last two years, I have developed complex applications (https://payroll.zenegy.com/en/apps/) as Google Calendar, Office 365 Calendar & Planday for Zenegy.
 
-Later, I explore freelancing with one year of internship experience. I paddled my way through different gigs. Eventually, I established rapport with a UK client (http://www.dovestones.com/) and served for more than 3.5 years with excellent deliverables. I worked on complex software and web applications based on AD.
-
-I am a GNIITian and certified expert on Experts-Exchange. I had earned Master, Guru and Wizard certificates for my contribution. I love to write code and have a knack for writing clean code. I study over Pluralsight for keeping myself improvised. 
+I am a GNIITian and certified expert on Experts-Exchange. I had received Master, Guru and Wizard certificates for my contribution. I love to write code and have a knack for writing clean code. I study over Pluralsight (https://app.pluralsight.com/profile/vssaini) for improving my craft.
 
 *Tech Arsenal I have used/am familiar with-*
 <ul>
