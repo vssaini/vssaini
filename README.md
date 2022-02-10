@@ -4,7 +4,7 @@ I'm a full-stack .NET Core Developer with 9+ yrs experience & specialization in 
 
 I have developed apps for Dovestones Software (http://www.dovestones.com/) and Zenegy (zenegy.com/en). In the last two years, I have developed complex applications (https://payroll.zenegy.com/en/apps/) as Google Calendar, Office 365 Calendar & Planday for Zenegy.
 
-I am a GNIITian and certified expert on Experts-Exchange. I had received Master, Guru and Wizard certificates for my contribution. I love to write code and have a knack for writing clean code. I study over Pluralsight (https://app.pluralsight.com/profile/vssaini) for improving my craft.
+I am a GNIITian and certified expert on Experts-Exchange (https://www.experts-exchange.com/members/vs00saini.html). I had received Master, Guru and Wizard certificates for my contribution. I love to write code and have a knack for writing clean code. I study over Pluralsight (https://app.pluralsight.com/profile/vssaini) for improving my craft.
 
 *Tech Arsenal I have used/am familiar with-*
 <ul>
