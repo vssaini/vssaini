@@ -11,15 +11,15 @@
 
   <rect x="72" y="180" width="104" height="3" rx="1.5" fill="#A371F7"/>
 
-  <text x="72" y="224"
+  <text x="72" y="226"
         font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="15" font-weight="600" letter-spacing="2.6" fill="#C9D1D9">REPORTING<tspan fill="#484F58">   ·   </tspan>PAYMENTS<tspan fill="#484F58">   ·   </tspan>INTEGRATIONS<tspan fill="#484F58">   ·   </tspan>AUTOMATION</text>
+        font-size="17" font-weight="600" letter-spacing="2.4" fill="#C9D1D9">REPORTING<tspan fill="#484F58">   ·   </tspan>PAYMENTS<tspan fill="#484F58">   ·   </tspan>INTEGRATIONS<tspan fill="#484F58">   ·   </tspan>AUTOMATION</text>
 
-  <text x="1128" y="108" text-anchor="end"
+  <text x="1128" y="106" text-anchor="end"
         font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="14" font-weight="600" letter-spacing="3" fill="#A371F7">.NET<tspan fill="#484F58">  ·  </tspan>AZURE</text>
+        font-size="20" font-weight="700" letter-spacing="2.2" fill="#A371F7">.NET<tspan fill="#484F58">  ·  </tspan>AZURE</text>
 
-  <text x="1128" y="224" text-anchor="end"
+  <text x="1128" y="226" text-anchor="end"
         font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="14" font-weight="600" letter-spacing="3" fill="#8B949E">13+ YEARS</text>
+        font-size="20" font-weight="700" letter-spacing="2.2" fill="#C9D1D9">13+ YEARS</text>
 </svg>
