@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Vikram Singh Saini, Senior .NET and Azure Developer. Reporting, payments, integrations, automation. 13+ years.">
+  <rect x="1" y="1" width="1198" height="278" rx="14" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+
+  <text x="72" y="108"
+        font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="700" letter-spacing="0.5" fill="#F0F6FC">Vikram Singh Saini</text>
+
+  <text x="72" y="150"
+        font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="21" font-weight="400" letter-spacing="0.2" fill="#8B949E">Senior .NET &amp; Azure Developer</text>
+
+  <rect x="72" y="180" width="104" height="3" rx="1.5" fill="#A371F7"/>
+
+  <text x="72" y="224"
+        font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="600" letter-spacing="2.6" fill="#C9D1D9">REPORTING<tspan fill="#484F58">   ·   </tspan>PAYMENTS<tspan fill="#484F58">   ·   </tspan>INTEGRATIONS<tspan fill="#484F58">   ·   </tspan>AUTOMATION</text>
+
+  <text x="1128" y="108" text-anchor="end"
+        font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="14" font-weight="600" letter-spacing="3" fill="#A371F7">.NET<tspan fill="#484F58">  ·  </tspan>AZURE</text>
+
+  <text x="1128" y="224" text-anchor="end"
+        font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="14" font-weight="600" letter-spacing="3" fill="#8B949E">13+ YEARS</text>
+</svg>
